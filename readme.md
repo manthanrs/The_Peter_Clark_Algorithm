@@ -1,6 +1,6 @@
 # Data-driven Causal Discovery In Nonlinear Systems: A Generalized PC Algorithm
 
-This repository contains the official Python implementation of the Generalized PC (gPC) Algorithm, introducing a non-parametric Conditional Independence (CI) testing pipeline designed for complex, non-linear industrial systems.
+This repository contains the official Python implementation of the Generalized PC (gPC) Algorithm, introducing a non-parametric Conditional Independence (CI) testing pipeline designed for non-linear industrial systems.
 
 Traditional constraint-based causal discovery methods, such as the standard Peter-Clark (PC) algorithm, rely heavily on parametric tests like Fisher's Z. While effective for linear-Gaussian data, these methods often fail to conditionally separate variables in complex systems characterized by coupled non-linearities (e.g., the Quadruple Tank Benchmark system).
 
